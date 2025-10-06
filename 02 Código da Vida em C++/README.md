@@ -45,14 +45,6 @@ Neste episódio você vai aprender:
 
 ---
 
-### **Episódio 5 – Construção de Jogos em Modo Texto – Jogo da Forca**
-Neste episódio você vai aprender:
-- Estruturação de jogos em console  
-- Manipulação de entrada e saída de dados  
-- Lógica do jogo da forca em C++  
-
----
-
 ## 🚀 Objetivo da Série
 Ajudar jovens a descobrirem o mundo da programação em C++ de forma criativa, conectando **código e vida real**.  
 Cada linha de código é também um passo no caminho de amadurecimento, descobertas e laços entre os personagens.  
